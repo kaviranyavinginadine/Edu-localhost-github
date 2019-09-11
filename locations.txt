@@ -34,6 +34,7 @@ Sydney, Australia
 
 Vancouver, Canada
 
+
 Toronto, Canada
 
 Tokyo, Japan
@@ -144,5 +145,6 @@ Bunia, DRC
 
 Beni, DRC
 
-Goma, Nord-kivu, DRC
+Goma, Nord-kivu, 
 
+mambasa, mon territoire,
